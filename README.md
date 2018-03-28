@@ -1,7 +1,7 @@
 # Visual-Programming-
 CPSC236
 
-Steps to commit 
+Steps to commit \n
 
 #1 cd into file 
 #2 $ git init
