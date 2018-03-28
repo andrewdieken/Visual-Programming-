@@ -1,0 +1,14 @@
+C:\Users\andre\source\repos\aDieken_proj04\aDieken_proj04\bin\Debug\aDieken_proj04.exe.config
+C:\Users\andre\source\repos\aDieken_proj04\aDieken_proj04\bin\Debug\aDieken_proj04.exe
+C:\Users\andre\source\repos\aDieken_proj04\aDieken_proj04\bin\Debug\aDieken_proj04.pdb
+C:\Users\andre\source\repos\aDieken_proj04\aDieken_proj04\obj\Debug\aDieken_proj04.csprojResolveAssemblyReference.cache
+C:\Users\andre\source\repos\aDieken_proj04\aDieken_proj04\obj\Debug\aDieken_proj04.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\aDieken_proj04\aDieken_proj04\obj\Debug\aDieken_proj04.exe
+C:\Users\andre\source\repos\aDieken_proj04\aDieken_proj04\obj\Debug\aDieken_proj04.pdb
+C:\Users\andre\Documents\Visual Studio 2017\Projects\aDieken_proj04\aDieken_proj04\bin\Debug\aDieken_proj04.exe.config
+C:\Users\andre\Documents\Visual Studio 2017\Projects\aDieken_proj04\aDieken_proj04\bin\Debug\aDieken_proj04.exe
+C:\Users\andre\Documents\Visual Studio 2017\Projects\aDieken_proj04\aDieken_proj04\bin\Debug\aDieken_proj04.pdb
+C:\Users\andre\Documents\Visual Studio 2017\Projects\aDieken_proj04\aDieken_proj04\obj\Debug\aDieken_proj04.csprojResolveAssemblyReference.cache
+C:\Users\andre\Documents\Visual Studio 2017\Projects\aDieken_proj04\aDieken_proj04\obj\Debug\aDieken_proj04.csproj.CoreCompileInputs.cache
+C:\Users\andre\Documents\Visual Studio 2017\Projects\aDieken_proj04\aDieken_proj04\obj\Debug\aDieken_proj04.exe
+C:\Users\andre\Documents\Visual Studio 2017\Projects\aDieken_proj04\aDieken_proj04\obj\Debug\aDieken_proj04.pdb
