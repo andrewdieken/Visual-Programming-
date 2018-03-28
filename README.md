@@ -1,9 +1,9 @@
 # Visual-Programming-
 CPSC236
 
-Steps to commit \n
+Steps to commit 
 
-#1 cd into file \n
+#1 cd into file 
 #2 $ git init
 #3 $ git add .
 #4 $ git commit -m "add commit comment here"
