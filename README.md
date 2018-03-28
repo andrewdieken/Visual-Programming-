@@ -3,7 +3,7 @@ CPSC236
 
 Steps to commit \n
 
-#1 cd into file 
+#1 cd into file \n
 #2 $ git init
 #3 $ git add .
 #4 $ git commit -m "add commit comment here"
